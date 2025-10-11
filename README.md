@@ -9,4 +9,3 @@ My name is Lucas, a biomedical engineer passionate about games, technology and p
 - 📫 How to reach me:
   - via [LinkedIn](https://www.linkedin.com/in/lucasguaragna/);
   - via e-mail: lucasguaragna99@gmail.com.
-- 😄 Pronouns: He/Him
