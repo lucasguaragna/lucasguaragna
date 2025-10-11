@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Lucas, a biomedical engineer passionate about technology and project management.
+My name is Lucas, a biomedical engineer passionate about games, technology and project management.
 
 - 🔭 I’m currently working on [**AgRisk**](https://www.linkedin.com/company/agriskbr/posts/?feedView=all) as a **CRM Process Analyst** leading software implementation.
 - 🌱 I’m currently learning game development with a focus on the **Godot engine**.
